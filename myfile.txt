@@ -1,3 +1,5 @@
 ‚³‚é‚Å‚à‚í‚©
 add
 commit 
+pull
+
